@@ -1,0 +1,51 @@
+.header2{
+    text-align: center; 
+    color: black; 
+    text-shadow: 1px 1px #edf0f5; 
+    margin-bottom: 1rem;
+}
+.container2{
+    width: 50%;
+    margin: 7em auto;
+    background-color: #f2f3f7;
+    border-radius: 5px;
+    box-shadow: 0px 0px 2px 2px #505a6c;
+    padding: 2em;
+}
+.input2{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 0rem;
+    color: black;
+    padding: 1rem 0rem;
+}
+.output-label2{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 0rem;
+}
+#buttons{
+    padding: 3px 5px;
+    background-color: #f1f2f7;
+    border: 1px solid #77797e;
+    border-radius: 3px;
+    box-shadow: 0px 0px 2px 2px #c2c2c4;
+    margin-right:4px ;
+}
+
+#agew{
+    width: 100px;
+    height: 25px;
+    padding: 3px;
+    background-color: #f1f2f7;
+    color: black;
+    border: 1px groove #293345;
+    box-shadow: 0px 0px 2px 2px #17181a;
+    text-align: center;
+}
+
+#ageInput2{
+    padding: 3px;
+    background-color: #f1f2f7;
+    color: black;
+}
